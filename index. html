@@ -20,7 +20,7 @@
     </nav>
 
     <!-- Sección Inicio -->
-    <section id="inicio">
+    </section> id="inicio">
         <h2>Noticias Generales</h2>
 
         <table border="1">
